@@ -1,0 +1,16 @@
+git init
+git clone [URL]
+git add [file]
+git status
+git branch
+git checkout [branch]
+git merge [branch]
+git pull
+git push
+git remote -v
+git log
+git reset
+git stash
+git tag
+git blame [file]
+git fetch
